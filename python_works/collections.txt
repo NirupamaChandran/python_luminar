@@ -1,0 +1,10 @@
+collection name		define 		insertion order 	duplicates	mutable		methods
+
+list		  	[]		preserved		allowed		yes		append(),pop(),copy(),index(),count(),sort(),insert(),reverse(),remove()
+
+tuple			()		preserved		allowed		NO		count(),index()
+
+set			{}		NOT PRESERVED		NOT ALLOWED	yes		add(),uninon(),intersection(),difference(),pop(),remove(),discard(), 													update(),symmetric_difference()
+
+dictionary		{}		preserved		ALLOWED ONLY	yes		keys(),values(),items(),get(),update(),pop()
+								FOR VALUES

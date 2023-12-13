@@ -1,0 +1,37 @@
+/* tag selector--->tag name */
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    text-decoration-color: rgb(1, 99, 1);
+}
+
+/* id selector--->#  */
+#main-head{
+    color: rgb(199, 23, 120);
+    text-align: left;
+    text-decoration: none;
+}
+
+/* danger-->red */
+/* success-->green */
+/* warning-->yellow */
+/* dark-->black */
+/* primary-->blue */
+
+
+/* class selector--->.  */
+.text-success{
+    color: green;
+}
+.text-warning{
+    color: yellow;
+}
+.text-underline{
+    text-decoration: underline;
+}

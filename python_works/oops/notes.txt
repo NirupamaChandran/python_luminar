@@ -1,0 +1,12 @@
+class
+plan, design pattern, blue print, template
+contain attributes and methods
+
+    class Class_name
+        attributes:type     eg name:str
+        
+        def method(self)
+
+
+objects
+real world entity

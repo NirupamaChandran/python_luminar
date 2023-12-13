@@ -1,0 +1,9 @@
+html have 2 types of element: block element(h1) and inline element(span)
+nav,aside,section,main,footer
+
+div tag --> grouping
+(tr>td*3)*3 
+tr--> row
+td--> column
+
+id class name ---> properties 

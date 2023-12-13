@@ -1,0 +1,4 @@
+inline css ----> style="property:value; property:vale
+space out border margin
+space inside border padding
+google fonts
